@@ -22,8 +22,8 @@ position all interact.
 
 General AI tools are unsafe for this work: their answers aren't tied to identifiable sources, so
 everything has to be re-verified from scratch — and hallucinated citations carry real
-professional consequences (e.g. *Ayinde v Hackney* [2025] EWHC 1383). The point of this tool is
-therefore **verifiability within a focused area**, not breadth.
+professional consequences. The point of this tool is therefore 
+**verifiability within a focused area**, not breadth.
 
 **Intended users:** LLM/PhD students, paralegals, trainees, junior associates, and NQs.
 
