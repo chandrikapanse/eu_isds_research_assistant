@@ -80,8 +80,8 @@ retrieval or generation.
 
 **Result: 34/40 met or exceeded the standard (85%)** — 24 met, 10 exceeded, 6 fell short. The
 shortfalls split evenly between retrieval and generation, with no single dominant failure mode.
-The strongest answers came on the *hardest* questions — advice-refusal traps, requests for an
-opinion, and multi-source doctrinal reasoning — which is where a reliability-first design most
+The strongest answers came on the *hardest* questions such as advice-refusal traps, requests for an
+opinion, and multi-source doctrinal reasoning, which is where a reliability-first design most
 needs to hold.
 
 A representative finding: the system once attributed a lower court's paragraph to the Supreme
@@ -102,7 +102,7 @@ Deliberate design decisions, not shortcomings:
 
 - Built on a **focused corpus of 25 documents**, kept intentionally small to get retrieval
   reliability right before scaling.
-- Covers **intra-EU and UK ISDS specifically** — it is not a general arbitration tool.
+- Covers **intra-EU and UK ISDS specifically**. It is not a general arbitration tool.
 - It is a **first-pass research aid**, not a replacement for primary research or established
   databases (Jus Mundi, Kluwer Arbitration, Westlaw), which offer far larger corpora and editorial
   functions this doesn't attempt to replicate.
@@ -130,6 +130,6 @@ Deliberate design decisions, not shortcomings:
 
 ## Note on the corpus
 
-The corpus itself is **not included** in this repository — it contains third-party copyrighted
+The corpus itself is **not included** in this repository. It contains third-party copyrighted
 material curated for research use. Only the system's code and evaluation methodology are published
 here.
